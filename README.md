@@ -1,39 +1,45 @@
-<div align="center">
+<h1 align="center">QSteam-Millennium</h1>
 
-# iMSteam-Millennium
+> [!CAUTION]
+> **Do not ask for help or mention piracy on the official Steam Client Homebrew Discord server, otherwise you will be banned!**
 
-Add sites like Fitgirl, Dodi and Online-fix directly inside Steam client to search for games
+<h2 align="center">Description</h2>
 
-If you're unfamiliar with iMSteam check [here](https://github.com/iMAboud/iMSteam) for more info
+QSteam is a plugin for the Millennium custom Steam client. It adds quick-access buttons to any game's page that redirect to piracy sites, allowing you to quickly find and install the specific game you are currently viewing.
 
-![steamwebhelper_SDEzNw1Lzz](https://github.com/user-attachments/assets/bacedc11-264c-4f6e-be43-cb002ff20b8d)
+<table>
+  <tr>
+    <td><img src="Screenshots/gamepage.png" alt="Game Page" width="100%"></td>
+    <td><img src="Screenshots/settings.png" alt="Plugin Settings" width="100%"></td>
+  </tr>
+</table>
 
-_____________________________________________________________________
+<h2 align="center">Configuration</h2>
 
-## Installation
-</div>
+You can customize the plugin by navigating to:  
+**Millennium > Plugins > QSteam > Configure**
 
-1. Install [Millennium](https://github.com/shdwmtr) or open Powershell and run: ``iwr -useb "https://steambrew.app/install.ps1" | iex``
-2. Download iMSteam.zip
-3. Unpack it and move iMSteam to plugins folder in: ``\Steam\plugins`` (Usually in ``C:\Program Files (x86)\Steam\plugins``)
-4. Launch Steam or relaunch if it was running
-5. Go to Steam > Settings > Plugins > activate iMSteam Extension if not activated
-6. Restart steam again
+In the settings, you can:
+* Add new sites to the list.
+* Edit existing site URLs.
+* Remove sites you don't need.
 
-_____________________________________________________________________
-<div align="center">
-  
-## Future updates
-</div>
+*Note: Websites like RuTracker and CS.RIN.RU require an active account to access downloads.*
 
-- Better UI and icons placement
-- Customizations just like iMSteam extension on browser
+<h2 align="center">Installation</h2>
 
-_____________________________________________________________________
-<div align="center">
-  
-## Credit
-[Millennium](https://github.com/shdwmtr)
+1. Install Millennium: [Getting Started](https://docs.steambrew.app/users/getting-started/installation).
+2. Download `QSteam-MIL_vX.X.zip` from the [Releases](../../releases) page.
+3. Extract the downloaded archive.
+4. Move the extracted plugin folder into your `plugins` directory.  
+   *(Tip: You can easily open this folder by going to **Steam > Millennium > Plugins > Browse local files**)*.
+5. Restart Steam.  
+   *(If needed, enable the plugin in the Millennium menu, then click **Save Changes** > **Reload Now**)*.
 
-</div>
-  
+<h2 align="center">Credits</h2>
+
+The original idea belongs to [iMAbound](https://github.com/iMAboud) - [iMSteam-Millennium](https://github.com/iMAboud/iMSteam-Millennium).
+
+<h2 align="center">License</h2>
+
+This project is licensed under the **GPLv3** License.
