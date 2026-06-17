@@ -38,8 +38,16 @@ In the settings, you can:
 
 <h2 align="center">Credits</h2>
 
-The original idea belongs to [iMAbound](https://github.com/iMAboud) - [iMSteam-Millennium](https://github.com/iMAboud/iMSteam-Millennium).
+<p align="center">
+The original idea belongs to <a href="https://github.com/iMAboud">iMAbound</a> - <a href="https://github.com/iMAboud/iMSteam-Millennium">iMSteam-Millennium</a>.
+</p>
 
 <h2 align="center">License</h2>
 
-This project is licensed under the **GPLv3** License.
+<p align="center">
+<img src="https://www.gnu.org/graphics/gplv3-127x51.png" alt="GPLv3 License" />
+</p>
+
+<p align="center">
+This project is licensed under the <strong>GPLv3</strong> License.
+</p>
